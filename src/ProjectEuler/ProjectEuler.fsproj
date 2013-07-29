@@ -48,6 +48,10 @@
     <None Include="App.config" />
     <Compile Include="P1.fs" />
     <Compile Include="P2.fs" />
+    <Compile Include="P3.fs" />
+    <Compile Include="P4.fs" />
+    <Compile Include="P5.fs" />
+    <Compile Include="P6.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>
