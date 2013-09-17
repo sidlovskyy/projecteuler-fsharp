@@ -51,7 +51,8 @@
     <Compile Include="P3.fs" />
     <Compile Include="P4.fs" />
     <Compile Include="P5.fs" />
-    <Compile Include="P6.fs" />
+	<Compile Include="P6.fs" />
+    <Compile Include="P8.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>

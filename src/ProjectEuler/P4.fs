@@ -19,4 +19,4 @@ let solveForNumbers x y =
                           | _ -> findFirstPalindrom tail
     allProducts |> List.sort |> List.rev |> findFirstPalindrom
 
-let solvep4 = solveForNumbers 999 999
+let solution = solveForNumbers 999 999

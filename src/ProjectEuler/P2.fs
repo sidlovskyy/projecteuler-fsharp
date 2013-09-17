@@ -5,3 +5,5 @@ let generateFibonaci =
 
 let getFibonaciSum = 
     generateFibonaci |> Seq.takeWhile (fun n -> n <= 4000000) |> Seq.filter (fun n -> n % 2 = 0) |> Seq.sum
+
+let solution = getFibonaciSum
